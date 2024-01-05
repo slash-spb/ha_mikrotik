@@ -1,12 +1,12 @@
 """Constants used in the Mikrotik components."""
 from typing import Final
 
-DOMAIN: Final = "mikrotik"
-DEFAULT_NAME: Final = "Mikrotik"
+DOMAIN: Final = "mikrotik2"
+DEFAULT_NAME: Final = "Mikrotik2"
 DEFAULT_API_PORT: Final = 8728
 DEFAULT_DETECTION_TIME: Final = 300
 
-ATTR_MANUFACTURER: Final = "Mikrotik"
+ATTR_MANUFACTURER: Final = "Mikrotik2"
 ATTR_SERIAL_NUMBER: Final = "serial-number"
 ATTR_FIRMWARE: Final = "current-firmware"
 ATTR_MODEL: Final = "model"

@@ -1,6 +1,6 @@
 {
-  "domain": "mikrotik",
-  "name": "Mikrotik",
+  "domain": "mikrotik2",
+  "name": "Mikrotik2",
   "codeowners": ["@engrbm87"],
   "config_flow": true,
   "documentation": "https://www.home-assistant.io/integrations/mikrotik",
